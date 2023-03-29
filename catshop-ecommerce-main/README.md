@@ -25,8 +25,6 @@ Esse repositório contém um esqueleto de app React e um .gitignore.
 </BR>
 </BR>
 
-Link do surge: exclusive-corn.surge.sh
-
 ## 💻Versão:
 - desktop (tela de 1280px de largura).
     
